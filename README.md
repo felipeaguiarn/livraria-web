@@ -4,4 +4,4 @@ Criação de site baseado em vendas de livros usados, usando HTML, CSS, BOOTSTRA
 
 VISTE O SITE EM 
 
-http://seboleste.com.br/
+url: http://seboleste.com.br/
