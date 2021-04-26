@@ -35,7 +35,10 @@ text-decoration: none;
  
 
 
-
+.bgst{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
 .bannerPrimal{
 padding-top: 100px;
