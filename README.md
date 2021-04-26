@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Welcome, 
+This is an initial project using Bootstrap, to create a virtual store for a bookstore.
 
-You can use the [editor on GitHub](https://github.com/felipeaguiarn/sebo-leste/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Functionalities:
++++ in process
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [ ] greater responsive
+- [ ] shopping cart
+- [ ] item description
+- [ ] more functions
 
-### Markdown
+Test on this [LINK](https://felipeaguiarn.github.io/sebo-leste/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Developed 
+In HTML, Bootstrap and CSS (FlexBox)
 
-```markdown
-Syntax highlighted code block
+ Support or fixes are appreciated
+ Thanks for reading
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Bem vindo, 
+Esse é um projeto inicial usando Boootstrap, para uma loja virtual de livraria. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Funcionalidades:
++++ em processo
 
-[Link](url) and ![Image](src)
-```
+- [ ] melhor responsividade
+- [ ] shopping cart
+- [ ] descrição de item
+- [ ] mais funcionalidades
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Desenvolvido 
+Em HTML, Bootstrap e CSS (FlexBox)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/felipeaguiarn/sebo-leste/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Você pode testar o funcionamento da pagina nesse [LINK](https://felipeaguiarn.github.io/sebo-leste/)
 
-### Support or Contact
+___
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![Image of WebPage-1](https://raw.githubusercontent.com/felipeaguiarn/sebo-leste/master/Screenshot-1.png)
+
+![Image of WebPage-2](https://raw.githubusercontent.com/felipeaguiarn/sebo-leste/master/Screenshot-2.png)
