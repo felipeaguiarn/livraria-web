@@ -1,0 +1,13 @@
+@media (max-width:600px) {
+    
+   .carousel{
+    display: none;
+    }
+    
+    
+.footer-bar{
+    align-items:center;
+    flex-direction: column;
+}
+
+ }

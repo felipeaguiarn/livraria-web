@@ -1,0 +1,25 @@
+
+.destaque {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    background-color:white;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.container1{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.colorTitle{
+color:#0D47A1;
+}
+
+.priceColor{
+    color: #c5a374;
+    font-size: larger;
+    }
+      
