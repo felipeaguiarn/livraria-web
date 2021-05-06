@@ -1,0 +1,32 @@
+[
+    {
+        "imagem":"https://i.pinimg.com/564x/f0/89/7e/f0897e9a8f0bf9ad340c74b8e0700828.jpg", 
+        "preco-inicial":"45",
+        "desconto":"36",
+        "titulo":"Titulo 1"
+    },
+    {
+        "imagem":"https://i.pinimg.com/564x/55/b6/92/55b69269c89a60c17fd30c22cf02a84d.jpg", 
+        "preco-inicial":"35",
+        "desconto":"22",
+        "titulo":"Titulo 2"
+    },
+    {
+        "imagem":"https://i.pinimg.com/564x/2d/ad/af/2dadaf00915325ba4099b0fefe03a0b5.jpg", 
+        "preco-inicial":"40",
+        "desconto":"32",
+        "titulo":"Titulo 3"
+    },
+    {
+        "imagem":"https://i.pinimg.com/564x/32/c4/b8/32c4b85e1dd90b41035dd3b6a62a53c4.jpg", 
+        "preco-inicial":"32",
+        "desconto":"26",
+        "titulo":"Titulo 4"
+    },
+    {
+        "imagem":"https://i.pinimg.com/564x/8d/60/d2/8d60d245f8275f070adc815ee17f4d9e.jpg", 
+        "preco-inicial":"52",
+        "desconto":"46",
+        "titulo":"Titulo 5"
+    }
+]
