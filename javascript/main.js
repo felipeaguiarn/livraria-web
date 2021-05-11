@@ -15,12 +15,12 @@ function requisitarDados(){
         .then(function(dados){
                dados.forEach(element => {
                 let livro = `                
-                <div class="card">
-                    <img class="card-img-top" src="${element.imagem}"
-                    alt="Imagem de capa do card">
-                    <div class="card-body">
-                    <p class="font-weight-light">R$ ${element["preco-inicial"]} <span class="font-weight-normal priceColor">R$ ${element.desconto}</span></p>
-                    <h5 class="card-title">${element.titulo}</h5>
+                <div class="cardBooks">
+                    <img class="coverBooks" src="${element.imagem}"
+                        alt="Imagem de capa ${element.titulo}">
+                    <div class="textPrice">
+                        <span class="priceColor">R$ ${element.desconto}</span><span class="oldPrice">R$ ${element["preco-inicial"]}</span>
+                        <p class="titulo">${element.titulo}</p>
                     </div>
                 </div>
                 `   
@@ -32,4 +32,35 @@ function requisitarDados(){
 requisitarDados();
 
 
+const livros2 = document.getElementById("livros2");
 
+// 1 criar um arquivo json com informações dos livros
+// 2 carregar infos arquivos 
+// 3 inserior no DOM
+
+
+
+function requisitarDadosx(){
+    fetch("../assets/database2.json")
+        .then(function(res){
+                return res.json()
+              
+        })
+        .then(function(dadosx){
+               dadosx.forEach(element => {
+                let livro2 = `                
+                <div class="cardBooks">
+                <img class="coverBooks" src="${element.imagem}"
+                    alt="Imagem de capa ${element.titulo}">
+                <div class="textPrice">
+                    <span class="priceColor">R$ ${element.desconto}</span><span class="oldPrice">R$ ${element["preco-inicial"]}</span>
+                    <p class="titulo">${element.titulo}</p>
+                </div>
+            </div>
+                `   
+                livros2.innerHTML+=livro2
+               });
+        })
+}
+
+requisitarDadosx();

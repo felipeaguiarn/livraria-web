@@ -10,4 +10,49 @@
     flex-direction: column;
 }
 
- }
+
+.containerBooks{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-row: auto auto;
+   
+}
+
+.textPrice p {
+    margin-left: 0.2em;
+    font-size:small;
+}
+
+.coverBooks{
+
+    min-width: 122px;
+    min-height: 184px;
+    
+}
+
+.textNews{
+    
+    width: 100%;
+    font-size: 15px;
+}
+
+}
+
+
+
+@media (min-width:1600px) {
+
+
+    .cardBooks{
+        border: none;
+        
+    }
+
+    .coverBooks{
+
+        width: 100%;
+        min-width: auto;
+        min-height: auto;
+    }
+
+}
