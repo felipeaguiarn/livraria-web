@@ -4,10 +4,11 @@ Esse é um projeto inicial usando Boootstrap, para uma loja virtual de livraria.
 ## Funcionalidades:
 +++ em processo
 
-- [ ] melhor responsividade
-- [ ] shopping cart
-- [ ] descrição de item
-- [ ] mais funcionalidades
+- [x] melhor responsividade
+- [ ] shopping cart (simulação)
+- [ ] descrição de item (Popover?)
+- [ ] mais funcionalidades (Favoritos, ???)
+- [ ] melhorar a integração dos itens via json. (por algum motivo o github não esta alterando)
 
 ### Desenvolvido 
 Em HTML, Bootstrap e CSS (FlexBox)
