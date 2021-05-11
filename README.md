@@ -13,7 +13,7 @@ Esse é um projeto inicial usando Boootstrap, para uma loja virtual de livraria.
 ### Desenvolvido 
 Em HTML, Bootstrap e CSS (FlexBox)
 
-Você pode testar o funcionamento da pagina nesse [LINK](https://felipeaguiarn.github.io/sebo-leste/)
+Você pode testar o funcionamento da pagina nesse [LINK](https://felipeaguiarn.github.io/livraria-web/)
 
 ___
 
